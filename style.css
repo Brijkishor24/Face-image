@@ -8,3 +8,7 @@ body{
     height:300px;
     width:350px;
 }
+.name_of_object,#Capture_image,#Identify_image{
+    font-size:25px;
+    color: dimgrey;
+}
